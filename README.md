@@ -1,6 +1,6 @@
 # Python Programming from Basic
 
-Welcome to the Python Programming from Basic repository! This repository is designed to help beginners learn Python programming step-by-step, starting from the fundamentals and progressing to more advanced topics with handwritten notes.
+Welcome to the Python Programming from Basic repository! This repository is designed to help beginners learn Python programming step-by-step, starting from the fundamentals with handwritten notes.
 
 ## Table of Contents
 
