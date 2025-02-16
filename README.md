@@ -4,5 +4,5 @@ Welcome to the Python Programming from Basic repository! This repository is desi
 
 ## Table of Contents
 
-1. Introduction to Python
+1. [Introduction]() to Python 
 2. Variables & Data Types
