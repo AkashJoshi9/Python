@@ -5,5 +5,6 @@ Welcome to the Python Programming from Basic repository! This repository is desi
 
 ## Table of Contents
 
-1. [Introduction](https://github.com/AkashJoshi9/Python-With-Me/tree/975a64725390af0fc611186080f3dfca797fb4c3/1-%20Introduction) to Python 
-2. Variables & Data Types
+1. [Introduction](https://github.com/AkashJoshi9/Python-With-Me/tree/975a64725390af0fc611186080f3dfca797fb4c3/1-%20Introduction) to Python
+2. Modules, Comments & pip
+3. Variables & Data Types
