@@ -1,3 +1,4 @@
+![Python](https://img.shields.io/badge/-Python-blue) ![Programming](https://img.shields.io/badge/-Programming-yellow)
 # Python Programming from Basic
 
 Welcome to the Python Programming from Basic repository! This repository is designed to help beginners learn Python programming step-by-step, starting from the fundamentals with handwritten notes.
