@@ -1,4 +1,4 @@
-# "Comment" using '#'
+# "Comment" using '#' & "ctrl + /"
 print("Hello World")
 
 # "Variables"
